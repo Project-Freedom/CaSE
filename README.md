@@ -1,5 +1,5 @@
 # CaSE
-CaSE is a search engine based on Google by using HTML, CSS, etc.
+CaSE is a search engine based on Brave Search by using HTML, CSS, etc.
 ## The Meaning
 CaSE stands for California the Search Engine, especially on privacy and no tracking just like DuckDuckGo.
 ## The Goal
